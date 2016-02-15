@@ -1,0 +1,21 @@
+Commands:
+
+ls - List files and folders in directory. Use:
+	> ls			to list current directory
+	> ls <argument>	to list directory the name specified in the argument
+
+cd – change working directory. Use:
+	> cd  <argument>	to go to the directory specified in the argument, i.e.  “cd ..” goes to    parent directory
+
+cp – copy files and folders. Use:
+	> cp arg1 arg2		where arg1 and ag2 are files pathes
+
+mv – copy files and folders. Use:
+	> mv arg1 arg2		where arg1 and ag2 are files pathes
+
+get – get files from server. Max file size is 5120 bytes. Use:
+	> get arg1		where arg1 is file name
+
+put – send file to server. Max file size is 5120 bytes. Use:
+	> put arg1		where arg1 is file name
+
